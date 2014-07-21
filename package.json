@@ -22,7 +22,7 @@
   "main": "./lib/passport-google-oauth",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-oauth": "~0.1.4"
+    "passport-oauth": "dam1/passport-oauth"
   },
   "devDependencies": {
     "vows": "0.6.x"
